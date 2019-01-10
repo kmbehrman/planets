@@ -1,4 +1,5 @@
 Mars is cold and dry.
 Mars is called the red planet.
 Mars has a thin atmosphere.
-Mars has two moons.  One is called Steve.
+Mars has two moons.  One is called Steve, and One of them is called Phobos
+
